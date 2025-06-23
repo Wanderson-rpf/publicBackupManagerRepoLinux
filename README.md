@@ -15,7 +15,7 @@ Ele é utilizado pelo sistema de **atualizações automáticas** do app baseado 
 
 ## 📥 Para baixar o aplicativo
 
-Acesse a [página de releases](https://github.com/Wanderson-rpf/publicBackupManagerRepo/releases) para obter a versão mais recente do instalador.
+Acesse a [página de releases](https://github.com/Wanderson-rpf/publicBackupManagerRepoLinux/releases) para obter a versão mais recente do instalador.
 
 ---
 
